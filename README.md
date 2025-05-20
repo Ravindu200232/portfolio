@@ -26,7 +26,7 @@ Feel free to explore the codebase and use it as a reference for building your ow
 
 ## Deployment 🌐
 
-This project is deployed on Vercel using Next.js. It dynamically hides environment variables, such as emailJS configuration, to ensure security. You can access the deployed project at [www.sunnypatel.net](www.sunnypatel.net).
+This project is deployed on Vercel using Next.js. It dynamically hides environment variables, such as emailJS configuration, to ensure security. You can access the deployed project at 
 
 ## Built with Vite 🚀
 
