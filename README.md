@@ -10,7 +10,7 @@ The 3D Portfolio is a modern and interactive web application built with React.js
 
 ## Live Demo 💻
 
-Explore the live demonstration of the project at [www.sunnypatel.net](www.sunnypatel.net)!
+Explore the live demonstration of the project at !
 
 ## Usage 🛠️
 
@@ -54,6 +54,4 @@ This project is open source and licensed under the Sunny Patel License. See the 
 
 If you have any questions or need assistance, feel free to reach out to me at sunnypatel124555@gmail.com. I'm here to help! 🌞
 
-## GitHub Stars ⭐
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/sunnypatell/react-threejs-portfolio?style=social)
